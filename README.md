@@ -20,3 +20,7 @@
   * Spring Data JPA;
   * H2 Database;
 
+* Launching up H2 Console and Creating Course Table in H2
+
+
+
